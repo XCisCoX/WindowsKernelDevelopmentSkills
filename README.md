@@ -175,5 +175,4 @@ Found an error or an outdated API? Please open an issue.
 This material is provided for educational purposes, as is, without warranty. You are responsible for testing any driver code before using it anywhere important. Windows and WDK details change between versions, so verify against the [official Microsoft documentation](https://learn.microsoft.com/windows-hardware/drivers/).
 
 ## License
-
-No license has been chosen yet. Add a `LICENSE` file (MIT is a common choice for documentation and examples) and update this section to match.
+License for use is MIT so feel free to use it how ever you want :)
