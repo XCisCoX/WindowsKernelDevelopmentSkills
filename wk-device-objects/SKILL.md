@@ -1,6 +1,6 @@
 ---
 name: wk-device-objects
-description: "Use when creating, naming, securing, enumerating, or tearing down Windows device objects: DRIVER_OBJECT and DEVICE_OBJECT field layouts, IoCreateDevice and IoCreateDeviceSecure, DEVICE_TYPE values, FILE_* characteristics, DO_* flags including DO_DEVICE_INITIALIZING, the \Device versus \DosDevices versus \?? namespace, SDDL access control, device enumeration, and leak-free deletion."
+description: Use when creating, naming, securing, enumerating, or tearing down Windows device objects: DRIVER_OBJECT and DEVICE_OBJECT field layouts, IoCreateDevice and IoCreateDeviceSecure, DEVICE_TYPE values, FILE_* characteristics, DO_* flags including DO_DEVICE_INITIALIZING, the \Device versus \DosDevices versus \?? namespace, SDDL access control, device enumeration, and leak-free deletion.
 ---
 
 # Device objects: the endpoints a client can actually open
