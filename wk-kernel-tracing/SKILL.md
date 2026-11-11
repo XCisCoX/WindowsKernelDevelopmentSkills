@@ -1,6 +1,6 @@
 ---
 name: wk-kernel-tracing
-description: Use when a driver must explain itself without stopping the machine: DbgPrint/DbgPrintEx component and level filtering with the Debug Print Filter registry value, KdPrint and NT_ASSERT behavior in release builds, DebugView capture, TraceLogging/ETW providers with logman, tracelog, tracefmt and WPA, and WPP DoTraceMessage tracing.
+description: "Use when a driver must explain itself without stopping the machine: DbgPrint/DbgPrintEx component and level filtering with the Debug Print Filter registry value, KdPrint and NT_ASSERT behavior in release builds, DebugView capture, TraceLogging/ETW providers with logman, tracelog, tracefmt and WPA, and WPP DoTraceMessage tracing."
 ---
 
 # Kernel tracing: making the driver speak without a debugger
