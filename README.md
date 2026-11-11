@@ -1,5 +1,7 @@
 # Windows Kernel Development Skills
 
+<img width="1600" height="600" alt="windows-kernel-development-skills-hero" src="https://github.com/user-attachments/assets/d394cffc-9257-4bb5-9dd3-9ebd294becc9" />
+
 A collection of focused, reusable **skills** for Windows kernel-mode and device driver development. Each folder covers one topic (IRQL, IRPs, spinlocks, WinDbg, and so on) and can be used as reference material or loaded into an AI coding assistant so it gives accurate, kernel-aware guidance.
 
 > **Warning:** Kernel code runs with full system privileges. A bug can crash the machine or corrupt data. Always develop and test in a virtual machine with a kernel debugger attached, never on your main system.
